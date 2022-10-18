@@ -1,0 +1,7 @@
+﻿device,concept1,weightage1,concept2,weightage2,concept3,weightage3,concept4,weightage4,concept5,weightage5
+BIOMET FINNED PRI STEM 40MM, Knee, 5, Arthroplasty, 4, Pain, 3, Fracture, 2, Surgical revision, 1
+device 1,dev1concept1,1000,dev1concept2,500,dev1concept3,100,dev1concept4,1000,dev1concept5,500
+device 2,dev2concept1,1000,dev2concept2,500,dev2concept3,100,dev2concept4,1000,dev2concept5,500
+device 3,dev3concept1,1000,dev3concept2,500,dev3concept3,100,dev3concept4,1000,dev3concept5,500
+device 4,dev4concept1,1000,dev4concept2,500,dev4concept3,100,dev4concept4,1000,dev4concept5,500
+device 5,dev5concept1,1000,dev5concept2,500,dev5concept3,100,dev5concept4,1000,dev5concept5,500
